@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaykumar544
+- 👋 Hi, I’m @Jaychand Kumar
 - 👀 I’m interested in Coding actually.
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on a project related to creating a fully functional application.
